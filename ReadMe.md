@@ -5,4 +5,4 @@
 * [DACON Basic](https://dacon.io/)
 * [Kaggle](https://www.kaggle.com/)
 * 파이썬 머신러닝 완벽 가이드 (ML_Guide)
-<img src="https://github.com/Park-taenam/Kaggle_HousePrice/blob/main/image/preprocessing.png" width="25%" height="75%"/>
+<img src="https://github.com/Park-taenam/Inha_MLStudy/blob/main/image/python_MLGuide.jpg" width="20%" height="40%"/>
